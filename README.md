@@ -1,4 +1,4 @@
-# Duckington CLI
+# QuackCLI
 
 <!-- markdownlint-disable MD033 -->
 <div style="text-align: center;">
